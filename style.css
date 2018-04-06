@@ -1,0 +1,326 @@
+@font-face
+{
+	font-family: "monsterhunter";
+	src: url(monsterhunter.ttf);
+}
+
+/*accueil*/
+body
+{
+	background-image: url(img/imgfond.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+p
+{
+	text-align: justify;
+	padding: 1%;
+	font-size: 18px;
+}
+header
+{
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+}
+h1
+{
+	font-family: "monsterhunter";
+	text-align: center;
+	font-size: 100px;
+	color: black;
+	padding: 1%;
+	background: rgba( 255, 255, 255, 0.8);
+	border-radius: 15px;
+}
+#presentation
+{
+	padding: 3%;
+	font-size: 20px;
+}
+h2
+{
+	text-align: center;
+	font-size: 30px;
+	padding: 1%;
+	letter-spacing: 15px;
+	margin-left: 70px;
+	margin-right: 70px;
+	text-transform: uppercase;
+}
+section
+{
+	color: black;
+	border-radius: 15px;
+	background: rgba( 255, 255, 255, 0.8);
+	padding: 3%;
+	margin: 2% 10%;
+}
+.flex
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.photo
+{
+	width: 450px;
+	box-shadow: 4px 4px black;
+}
+nav
+{
+	width: 100%;
+}
+nav ul
+{
+	display: flex;
+	list-style-type: none;
+	justify-content: space-between;
+	background: rgba( 255, 255, 255, 0.8);
+	border-radius: 10px;
+	font-size: 30px;
+	margin: 0;
+	padding: 1%;
+}
+a
+{
+	color: black;
+	text-decoration: none;
+	color: red;
+}
+a:hover
+{
+ 	text-decoration: underline;
+}
+.ul1
+{
+	border: none;
+	font-size: 18px;
+	list-style-type: disc;
+}
+#png
+{
+	display: flex;
+	justify-content: center;
+}
+#horizon
+{
+	width: 300px;
+	height: 200px;
+}
+#street
+{
+	width: 200px;
+	height: 200px;
+}
+footer
+{
+	display: flex;
+	justify-content: space-between;
+	border-radius: 15px;
+	background: rgba( 255, 255, 255, 0.8);
+	width: 100%;
+}
+
+/*armes*/
+
+h3
+{
+	text-decoration: underline;
+	font-size: 25px;
+	text-align: center;		
+}
+#choix
+{
+	text-align: center;
+}
+.contenu
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 2%;
+}
+.liste_menu
+{
+	display: flex;
+	justify-content: space-between;
+	width: 50%;
+}
+.liste_menu p
+{
+	text-shadow: 1px 0 black;
+}
+
+/*carte*/
+
+.carte
+{
+	width: 30%;
+	height: 20%;
+}
+.carte:hover
+{
+	position: static;
+	z-index: 100;
+	width: 80%;
+	height: 80%;
+}
+#paragraph
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.environnement
+{
+	display: flex;
+}
+.lieu
+{
+	width: 50%;
+	height: 50%;
+}
+
+/*dragons*/
+
+.blocmonstres
+{
+	display: flex;
+	justify-content: space-between;
+	margin: 2%;
+}
+.monstres
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border: 1px solid grey;
+	border-radius: 8px;
+	padding: 1%;
+	width: 500px;
+}
+.imgdragons
+{
+	width: 500px;
+}
+.monstres2
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid grey;
+	border-radius: 8px;
+	padding: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
